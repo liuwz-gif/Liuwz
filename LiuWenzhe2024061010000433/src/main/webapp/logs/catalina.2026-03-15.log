@@ -1,0 +1,111 @@
+15-Mar-2026 22:18:58.666 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.1.52
+15-Mar-2026 22:18:58.669 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 23 2026 19:29:07 UTC
+15-Mar-2026 22:18:58.669 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.1.52.0
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 11
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Java
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    21.0.8+12-LTS-250
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+15-Mar-2026 22:18:58.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:18:58.671 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:18:58.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2026 22:18:58.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2026 22:18:58.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2026 22:18:58.677 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\temp
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\logging.properties
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2026 22:18:58.678 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -javaagent:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=65015:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\bin
+15-Mar-2026 22:18:58.679 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dfile.encoding=UTF-8
+15-Mar-2026 22:18:58.680 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.6]加载了基于APR的Apache Tomcat本机库[2.0.12]。
+15-Mar-2026 22:18:58.685 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 3.5.4 30 Sep 2025]
+15-Mar-2026 22:18:58.823 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+15-Mar-2026 22:18:58.834 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[279]毫秒内初始化
+15-Mar-2026 22:18:58.873 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+15-Mar-2026 22:18:58.873 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.1.52]
+15-Mar-2026 22:18:58.881 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 正在部署部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]。
+15-Mar-2026 22:18:59.118 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]的部署已在[234]ms内完成
+15-Mar-2026 22:18:59.121 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+15-Mar-2026 22:18:59.140 信息 [main] org.apache.catalina.startup.Catalina.start [305]毫秒后服务器启动
+15-Mar-2026 22:29:11.970 信息 [Thread-1] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+15-Mar-2026 22:29:11.975 信息 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+15-Mar-2026 22:29:11.981 信息 [Thread-1] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+15-Mar-2026 22:29:11.983 信息 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 正在销毁协议处理器 ["http-nio-8080"]
+15-Mar-2026 22:29:12.797 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.1.52
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 23 2026 19:29:07 UTC
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.1.52.0
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 11
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+15-Mar-2026 22:29:12.800 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Java
+15-Mar-2026 22:29:12.801 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    21.0.8+12-LTS-250
+15-Mar-2026 22:29:12.801 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+15-Mar-2026 22:29:12.801 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:29:12.801 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\temp
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\logging.properties
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2026 22:29:12.806 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -javaagent:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=63038:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\bin
+15-Mar-2026 22:29:12.807 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dfile.encoding=UTF-8
+15-Mar-2026 22:29:12.808 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.6]加载了基于APR的Apache Tomcat本机库[2.0.12]。
+15-Mar-2026 22:29:12.812 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 3.5.4 30 Sep 2025]
+15-Mar-2026 22:29:12.955 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+15-Mar-2026 22:29:12.965 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[293]毫秒内初始化
+15-Mar-2026 22:29:12.998 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+15-Mar-2026 22:29:12.998 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.1.52]
+15-Mar-2026 22:29:13.005 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 正在部署部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]。
+15-Mar-2026 22:29:13.255 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]的部署已在[249]ms内完成
+15-Mar-2026 22:29:13.258 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+15-Mar-2026 22:29:13.275 信息 [main] org.apache.catalina.startup.Catalina.start [308]毫秒后服务器启动
+15-Mar-2026 22:33:33.902 信息 [Thread-1] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+15-Mar-2026 22:33:33.905 信息 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+15-Mar-2026 22:33:33.911 信息 [Thread-1] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+15-Mar-2026 22:33:33.913 信息 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 正在销毁协议处理器 ["http-nio-8080"]
+15-Mar-2026 22:34:43.889 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.1.52
+15-Mar-2026 22:34:43.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jan 23 2026 19:29:07 UTC
+15-Mar-2026 22:34:43.893 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      10.1.52.0
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 11
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Java
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    21.0.8+12-LTS-250
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:34:43.894 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:34:43.898 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=E:\Tomcat\apache-tomcat-10.1.52
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\temp
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\logging.properties
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2026 22:34:43.899 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -javaagent:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=59303:D:\IDEA\IntelliJ IDEA Community Edition 2022.1.4\bin
+15-Mar-2026 22:34:43.900 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dfile.encoding=UTF-8
+15-Mar-2026 22:34:43.901 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.6]加载了基于APR的Apache Tomcat本机库[2.0.12]。
+15-Mar-2026 22:34:43.905 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 3.5.4 30 Sep 2025]
+15-Mar-2026 22:34:44.064 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+15-Mar-2026 22:34:44.076 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[300]毫秒内初始化
+15-Mar-2026 22:34:44.111 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+15-Mar-2026 22:34:44.112 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.1.52]
+15-Mar-2026 22:34:44.119 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 正在部署部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]。
+15-Mar-2026 22:34:44.351 信息 [main] org.apache.catalina.startup.HostConfig.deployDescriptor 部署描述符[E:\IDEA\LiuWenzhe2024061010000433\src\main\webapp\conf\Catalina\localhost\ROOT.xml]的部署已在[229]ms内完成
+15-Mar-2026 22:34:44.353 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+15-Mar-2026 22:34:44.370 信息 [main] org.apache.catalina.startup.Catalina.start [294]毫秒后服务器启动
+15-Mar-2026 22:39:14.736 信息 [Thread-1] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8080"]
+15-Mar-2026 22:39:14.739 信息 [Thread-1] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+15-Mar-2026 22:39:14.745 信息 [Thread-1] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8080"]
+15-Mar-2026 22:39:14.747 信息 [Thread-1] org.apache.coyote.AbstractProtocol.destroy 正在销毁协议处理器 ["http-nio-8080"]
